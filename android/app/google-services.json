@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223578667336",
+    "project_id": "horana-heights",
+    "storage_bucket": "horana-heights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223578667336:android:b0901618746ba26935db7d",
+        "android_client_info": {
+          "package_name": "com.satasme.horana_heights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223578667336-hgj7p0frah19onvusmenmoinjt1id0ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGh83LALxlOnbEDqxR4KiCxEbjvfQ7jII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223578667336-hgj7p0frah19onvusmenmoinjt1id0ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
